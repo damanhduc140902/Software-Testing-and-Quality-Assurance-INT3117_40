@@ -1,0 +1,67 @@
+a, b, result
+3.80, 22.0, Kém
+3.80, 40.0, Yếu
+3.80, 55.0, Trung bình
+3.80, 70.0, Khá
+3.80, 85.5, Giỏi
+3.80, 95.0, Xuất sắc
+3.80, -5.0, Invalid input
+3.80, 120.0, Invalid input
+3.33, 22.0, Kém
+3.33, 40.0, Yếu
+3.33, 55.0, Trung bình
+3.33, 70.0, Khá
+3.33, 85.5, Giỏi
+3.33, 95.0, Giỏi
+3.33, -5.0, Invalid input
+3.33, 120.0, Invalid input
+3.00, 22.0, Kém
+3.00, 40.0, Yếu
+3.00, 55.0, Trung bình
+3.00, 70.0, Khá
+3.00, 85.5, Khá
+3.00, 95.0, Khá
+3.00, -5.0, Invalid input
+3.00, 120.0, Invalid input
+2.20, 22.0, Kém
+2.20, 40.0, Yếu
+2.20, 55.0, Trung bình
+2.20, 70.0, Trung bình
+2.20, 85.5, Trung bình
+2.20, 95.0, Trung bình
+2.20, -5.0, Invalid input
+2.20, 120.0, Invalid input
+1.88, 22.0, Kém
+1.88, 40.0, Yếu
+1.88, 55.0, Yếu
+1.88, 70.0, Yếu
+1.88, 85.5, Yếu
+1.88, 95.0, Yếu
+1.88, -5.0, Invalid input
+1.88, 120.0, Invalid input
+0.55, 22.0, Kém
+0.55, 40.0, Kém
+0.55, 55.0, Kém
+0.55, 70.0, Kém
+0.55, 85.5, Kém
+0.55, 95.0, Kém
+0.55, -5.0, Invalid input
+0.55, 120.0, Invalid input
+-2.00, 22.0, Invalid input
+-2.00, 40.0, Invalid input
+-2.00, 55.0, Invalid input
+-2.00, 70.0, Invalid input
+-2.00, 85.5, Invalid input
+-2.00, 95.0, Invalid input
+-2.00, -5.0, Invalid input
+-2.00, 120.0, Invalid input
+5.55, 22.0, Invalid input
+5.55, 40.0, Invalid input
+5.55, 55.0, Invalid input
+5.55, 70.0, Invalid input
+5.55, 85.5, Invalid input
+5.55, 95.0, Invalid input
+5.55, -5.0, Invalid input
+5.55, 120.0, Invalid input
+
+
