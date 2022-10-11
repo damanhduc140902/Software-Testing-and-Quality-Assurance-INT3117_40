@@ -9,6 +9,7 @@ Mã sinh viên: 20021333
 Đánh giá xếp loại sinh viên năm học 2021-2022 dựa vào điểm GPA cả năm và điểm rèn luyện trung bình cả năm.
 
 Đầu vào: GPA, ĐRL
+
 Đầu ra: Sinh viên đạt xuất sắc, giỏi, khá, trung bình, yếu hay kém.
 
 ### Phần 1: Kiểm thử chức năng
