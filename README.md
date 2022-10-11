@@ -14,4 +14,5 @@ Mã sinh viên: 20021333
 ### Phần 1: Kiểm thử chức năng
 
 File data1.csv cung cấp 9 test case tương ứng với phương pháp kiểm thử giá trị biên.
+
 File data2.csv cung cấp 64 test case tương ứng với phương pháp phân lớp tương đương.
