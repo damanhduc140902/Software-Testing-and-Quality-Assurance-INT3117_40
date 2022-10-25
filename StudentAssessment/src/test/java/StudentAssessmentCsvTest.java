@@ -32,4 +32,14 @@ public class StudentAssessmentCsvTest {
         StudentAssessment assessment = new StudentAssessment();
         assertEquals(assessment.undervest(a, b), result);
     }
+
+    /*
+    Ham test cho phuong phap kiem thu luong du lieu voi do phu all-c-use/some-p-use
+     */
+    @ParameterizedTest
+    @CsvFileSource(resources = "/data4.csv", numLinesToSkip = 1)
+    void test4 (float a, float b, String result) {
+        StudentAssessment assessment = new StudentAssessment();
+        assertEquals(assessment.undervest(a, b), result);
+    }
 }
