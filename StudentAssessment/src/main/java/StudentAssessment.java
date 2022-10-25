@@ -1,7 +1,7 @@
 
 public class StudentAssessment {
     public String undervest(float gpa, float drl) {
-        String res;
+        String res = "";
         if (gpa > 4.0 || gpa < 0.0 || drl > 100.0 || drl < 0.0) {
             res = "Invalid input";
         } else {
