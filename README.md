@@ -21,3 +21,7 @@ File data2.csv cung cấp bộ 64 test case tương ứng với phương pháp p
 ### Phần 2: Kiểm thử C2
 
 File data3.csv cung cấp bộ 22 test case tương ứng với phương pháp kiểm thử độ phủ C2
+
+### Phần 3: Kiểm thử độ phủ all-c-use/some-p-use
+
+File data4.csv cung cấp bộ 22 test case tương ứng với phương pháp kiểm thử độ phủ all-c-use/some-p-use
